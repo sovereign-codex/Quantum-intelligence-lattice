@@ -6,7 +6,7 @@ on:
   pull_request:
 
 permissions:
-  contents: read
+  contents: write    # allow auto-commits
   pages: write
   id-token: write
 
@@ -24,6 +24,13 @@ jobs:
         run: pip install requests
       - name: Run validator
         run: python validate_manifest.py
+      - name: Commit heartbeat
+        run: |
+          git config --global user.name "QIL Bot"
+          git config --global user.email "qil-bot@users.noreply.github.com"
+          git add manifest/heartbeat.json
+          git commit -m "💓 QIL heartbeat [skip ci]" || echo "No changes to commit"
+          git push
 
   deploy:
     name: Deploy to GitHub Pages
