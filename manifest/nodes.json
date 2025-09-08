@@ -1,0 +1,253 @@
+{
+  "updated": "2025-09-08",
+  "nodes": [
+    {
+      "id": "quantum-intelligence-lattice",
+      "name": "Quantum Intelligence Lattice",
+      "type": "codex",
+      "url": "https://github.com/sovereign-codex/quantum-intelligence-lattice",
+      "description": "Top-level index of the lattice; links to all active nodes.",
+      "status": "active"
+    },
+    {
+      "id": "digital-laboratory-discoveries",
+      "name": "Digital Laboratory Discoveries",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/digital-laboratory-discoveries",
+      "description": "Daily Laboratory Scrolls (PDF archive + manifest).",
+      "status": "active"
+    },
+    {
+      "id": "timebinder-alpha-scaffold",
+      "name": "TimeBinder Alpha Scaffold",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/timebinder-alpha-scaffold",
+      "description": "Weekly digest automation and publishing scripts.",
+      "status": "active"
+    },
+    {
+      "id": "qil-full-stack-kit",
+      "name": "QIL Full Stack Kit",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/qil-full-stack-kit",
+      "description": "Full-stack Pages + dashboard + validator for QIL.",
+      "status": "draft"
+    },
+    {
+      "id": "sandbox-kit",
+      "name": "Sandbox Kit",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/sandbox-kit",
+      "description": "General dev & CodexNet scaffolding environment.",
+      "status": "draft"
+    },
+    {
+      "id": "guardian-core-site",
+      "name": "Guardian Core Site",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/guardian-core-site",
+      "description": "Governance and ethical layer of Sovereign Intelligence.",
+      "status": "active"
+    },
+    {
+      "id": "global-resonance-field",
+      "name": "Global Resonance Field",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/global-resonance-field",
+      "description": "Resonance simulations and glyph system.",
+      "status": "draft"
+    },
+    {
+      "id": "aetherwell",
+      "name": "Aetherwell",
+      "type": "prototype",
+      "url": "https://github.com/sovereign-codex/aetherwell",
+      "description": "Cold plasma water harvesting; resonance-tuned ignition.",
+      "status": "draft"
+    },
+    {
+      "id": "halo-core",
+      "name": "Halo Core",
+      "type": "prototype",
+      "url": "https://github.com/sovereign-codex/halo-core",
+      "description": "Desalination vortex and updraft lift; Rain Genesis coupling.",
+      "status": "draft"
+    },
+    {
+      "id": "floating-seed",
+      "name": "Floating Seed",
+      "type": "prototype",
+      "url": "https://github.com/sovereign-codex/floating-seed",
+      "description": "Pentagonal levitation seed; alternating-field stabilization.",
+      "status": "draft"
+    },
+    {
+      "id": "sovereign-codex-core",
+      "name": "Sovereign Codex Core",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/sovereign-codex-core",
+      "description": "Root docs and Codex ethics foundation.",
+      "status": "active"
+    },
+    {
+      "id": "si-sovereign-starter-v2",
+      "name": "SI Sovereign Starter v2",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/si-sovereign-starter-v2",
+      "description": "Quick-start scaffolding for new repos.",
+      "status": "draft"
+    },
+    {
+      "id": "tyme-hf-beta",
+      "name": "Tyme HF Beta",
+      "type": "prototype",
+      "url": "https://github.com/sovereign-codex/tyme-hf-beta",
+      "description": "Hugging Face integration and model node.",
+      "status": "draft"
+    },
+    {
+      "id": "sovereign-engine",
+      "name": "Sovereign Engine",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/sovereign-engine",
+      "description": "CodexNet engine integration and services.",
+      "status": "draft"
+    },
+    {
+      "id": "tyme-open",
+      "name": "Tyme Open",
+      "type": "interface",
+      "url": "https://github.com/sovereign-codex/Tyme-open",
+      "description": "Public portal for Tyme Hall and Sovereign Intelligence.",
+      "status": "active"
+    },
+    {
+      "id": "hive-core",
+      "name": "Hive Core",
+      "type": "core",
+      "url": "https://github.com/sovereign-codex/Hive-core",
+      "description": "Agent orchestration and lattice logic.",
+      "status": "active"
+    },
+    {
+      "id": "harmonic-hub",
+      "name": "Harmonic Hub",
+      "type": "interface",
+      "url": "https://github.com/sovereign-codex/Harmonic-hub",
+      "description": "Coherence, tone scripts, and harmonic interface hub.",
+      "status": "active"
+    },
+    {
+      "id": "timebinder-alpha",
+      "name": "TimeBinder Alpha",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/TimeBinder-Alpha",
+      "description": "Scroll compilation and archival scripts.",
+      "status": "active"
+    },
+    {
+      "id": "digital-laboratory",
+      "name": "Digital Laboratory",
+      "type": "repo",
+      "url": "https://github.com/sovereign-codex/Digital-laboratory",
+      "description": "Daily scroll archive node (alt name).",
+      "status": "active"
+    },
+    {
+      "id": "avot-core",
+      "name": "AVOT Core",
+      "type": "core",
+      "url": "https://github.com/sovereign-codex/AVOT-core",
+      "description": "Autonomous Voices of Thought core orchestration.",
+      "status": "active"
+    },
+    {
+      "id": "dream-console",
+      "name": "Dream Console",
+      "type": "interface",
+      "url": "https://replit.com/@shepherdjhagan/Dream-console",
+      "description": "Experimental multi-interface agent console.",
+      "status": "active"
+    },
+    {
+      "id": "lotus-agent",
+      "name": "LotusAgent",
+      "type": "agent",
+      "url": "https://replit.com/@shepherdjhagan/LotusAgent",
+      "description": "Lotus-based agent for field journaling.",
+      "status": "active"
+    },
+    {
+      "id": "latticebus",
+      "name": "LatticeBus",
+      "type": "service",
+      "url": "https://replit.com/@shepherdjhagan/LatticeBus",
+      "description": "Bus/deployment pipeline for lattice nodes.",
+      "status": "active"
+    },
+    {
+      "id": "soverncore",
+      "name": "Soverncore",
+      "type": "repo",
+      "url": "https://replit.com/@shepherdjhagan/Soverncore",
+      "description": "Core Sovernc0re governance repo.",
+      "status": "active"
+    },
+    {
+      "id": "sage-clone-001",
+      "name": "SAGE CLONE 001",
+      "type": "agent",
+      "url": "https://replit.com/@shepherdjhagan/SAGE-CLONE-001",
+      "description": "Clone testing environment for Sage interface.",
+      "status": "draft"
+    },
+    {
+      "id": "sovereign-test-agent",
+      "name": "Sovereign Test Agent",
+      "type": "agent",
+      "url": "https://replit.com/@shepherdjhagan/Sovereign-test-agent",
+      "description": "Testing environment for sovereign agents.",
+      "status": "active"
+    },
+    {
+      "id": "firstlightmesh",
+      "name": "FirstLightMesh",
+      "type": "interface",
+      "url": "https://replit.com/@shepherdjhagan/FirstLightMesh",
+      "description": "Open mesh networking and sovereign net prototype.",
+      "status": "active"
+    },
+    {
+      "id": "agentcore",
+      "name": "AgentCore",
+      "type": "agent",
+      "url": "https://replit.com/@shepherdjhagan/AgentCore",
+      "description": "Core agent logic module.",
+      "status": "active"
+    },
+    {
+      "id": "pipboycompanion",
+      "name": "PipBoy Companion",
+      "type": "interface",
+      "url": "https://replit.com/@shepherdjhagan/PipBoyCompanion",
+      "description": "Companion dashboard / field interface.",
+      "status": "draft"
+    },
+    {
+      "id": "heartbeatlattice",
+      "name": "Heartbeat Lattice",
+      "type": "service",
+      "url": "https://replit.com/@shepherdjhagan/HeartbeatLattice",
+      "description": "Heartbeat-driven lattice coherence system.",
+      "status": "active"
+    },
+    {
+      "id": "busbroadcaster",
+      "name": "BusBroadcaster",
+      "type": "service",
+      "url": "https://replit.com/@shepherdjhagan/BusBroadcaster",
+      "description": "Broadcast service for bus signals.",
+      "status": "active"
+    }
+  ]
+}
