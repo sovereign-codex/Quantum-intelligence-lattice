@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-08T19:40:02.121093Z",
+  "timestamp": "2025-09-08T23:34:44.814828Z",
   "nodes_checked": 31,
   "status": "issues",
   "errors": [
@@ -20,6 +20,6 @@
     "\u26a0\ufe0f URL https://replit.com/@shepherdjhagan/SAGE-CLONE-001 returned status 404",
     "\u26a0\ufe0f URL https://replit.com/@shepherdjhagan/PipBoyCompanion returned status 404",
     "\u26a0\ufe0f URL https://replit.com/@shepherdjhagan/HeartbeatLattice returned status 404",
-    "\u26a0\ufe0f URL https://replit.com/@shepherdjhagan/BusBroadcaster returned status 404"
+    "\u26a0\ufe0f URL https://replit.com/@shepherdjhagan/BusBroadcaster returned status 429"
   ]
 }
